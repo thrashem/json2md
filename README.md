@@ -10,4 +10,6 @@ Output:
 &nbsp;&nbsp;\- id: 1  
 &nbsp;&nbsp;\- name: "John Doe"  
 \- settings  
-&nbsp;&nbsp;\- region: "Asia"
+&nbsp;&nbsp;\- region: "Asia"  
+  
+[1.0](https://github.com/thrashem/json2md/releases/tag/1.0)
